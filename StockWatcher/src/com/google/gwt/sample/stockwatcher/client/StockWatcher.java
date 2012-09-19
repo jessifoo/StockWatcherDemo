@@ -285,7 +285,6 @@ public class StockWatcher implements EntryPoint {
     errorMsgLabel.setText("Error: " + error);
     errorMsgLabel.setVisible(true);
   }
-  
-  
+ 
 
 }
